@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zberkay16&label=Profile%20views&color=0e75b6&style=flat" alt="zberkay16" /> </p>
 # 💫 About Me:
 
-🔭 I’m currently working on <a href="https://www.epinium.net">Epinium</a><br>🌱 I’m currently learning .NET<br>💬 Ask me about PHP, C#, .NET<br>📫 How to reach me berkay.balta@gmail.com
+🔭 I’m currently working on <a href="https://www.epinium.net">Epinium</a><br>🌱 I’m currently learning .NET<br>💬 Ask me about PHP, C#, .NET<br>📫 How to reach me berkayb1655@gmail.com
 
 ## 🌐 Socials:
 

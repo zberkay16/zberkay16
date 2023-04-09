@@ -1,3 +1,4 @@
+<h3 align="center">Backend developer from Turkey.</h3>
 # 💫 About Me:
 
 🔭 I’m currently working on <a href="https://www.epinium.net">Epinium</a><br>🌱 I’m currently learning .NET CORE<br>💬 Ask me about PHP, C#, .NET<br>📫 How to reach me berkay.balta@gmail.com
